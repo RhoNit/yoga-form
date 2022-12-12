@@ -3,7 +3,7 @@
 </h1>
 <p align="center"> Registration form to enroll into monthly Yoga Classes </p>
 
-## 🚀 Featured APIs (🚧 working in progress 👨🏻‍🔧 )
+## 🚀 Featured APIs (🚧 working in progress 👨🏻‍🔧)
   * ``` POST /user ```
   * ``` GET /user ```
   * ``` POST /pay ```
