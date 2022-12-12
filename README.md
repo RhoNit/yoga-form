@@ -57,7 +57,7 @@ uvicorn main:app --reload
 
 ### Open it on ``` localhost:8000 ```
 ```
-http://127.0.0.1:8000/
+http://127.0.0.1:8000/       # 8000 is the default port to run FastAPI based application
 ```
 
 <hr>
