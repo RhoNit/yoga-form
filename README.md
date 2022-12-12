@@ -62,7 +62,7 @@ http://127.0.0.1:8000/       # 8000 is the default port to run FastAPI based app
 
 <hr>
 
-### API Documentation and Test APIs on
+### API Documentation and test APIs on
 ```
 https://127.0.0.1:8000/docs
 ```
