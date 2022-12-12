@@ -52,3 +52,17 @@ pip install -r requirements.txt
 ```
 uvicorn main:app --reload
 ```
+
+<hr>
+
+### Open it on ``` localhost:8000 ```
+```
+http://127.0.0.1:8000/
+```
+
+<hr>
+
+### API Documentation and Test APIs on
+```
+https://127.0.0.1:8000/docs
+```
