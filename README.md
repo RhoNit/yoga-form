@@ -14,6 +14,10 @@
   * SQLAlchemy (ORM)
   * PostgreSQL (Database)
 
+## 👁‍🗨 ER Diagram
+![](./erd_yoga_admission.png "ER Diagram of Yoga Class Admission")
+
+<hr>
 
 ## 🛠 Installation
 
